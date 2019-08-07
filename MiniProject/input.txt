@@ -1,0 +1,5 @@
+Samsung, 60000
+Apple, 75000
+OnePlus, 48000
+Xiaomi, 25000
+oppo, 12000
